@@ -1,1 +1,3 @@
-# Warsztaty_5
+# Book Cataloging
+
+An application that deals with cataloging books using Spring.
